@@ -5,6 +5,6 @@ Computational Finance and Risk Management Projects
 
 -Mean-Variance Portfolio Selection Strategies
 
--Option Pricing
+-European Option, Barrier Option Pricing
 
 -Risk-Based and Robust Portfolio Selection Strategies
